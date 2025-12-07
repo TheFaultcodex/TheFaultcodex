@@ -1,6 +1,6 @@
 ### Olá, sou João Manoel! 🖐️
 
- Tenho 20 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade LaSalle. Apesar da formação ampla em tecnologia, meu foco principal é Análise de Dados — área pela qual sou realmente apaixonado. No meu dia a dia, estou sempre explorando ferramentas, técnicas e projetos que me ajudem a transformar dados em insights reais e aplicáveis. Aqui no meu GitHub você vai encontrar meus experimentos, estudos e projetos práticos dentro desse universo.
+ Tenho 20 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade LaSalle. Apesar da formação ampla em tecnologia, meu foco principal é Análise de Dados, área pela qual sou realmente apaixonado. No meu dia a dia, estou sempre explorando ferramentas, técnicas e projetos que me ajudem a transformar dados em insights reais e aplicáveis. Aqui no meu GitHub você vai encontrar meus experimentos, estudos e projetos práticos dentro desse universo.
 
 ### Como Entrar em contato
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheFaultcodex)
